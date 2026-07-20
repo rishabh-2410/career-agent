@@ -1,0 +1,2 @@
+My name is Rishabh Sharma. I'm a Senior Software Engineer passionate about backend engineering, distributed systems, cloud-native applications, and AI. I'm from Dehradun, India, and I'm currently building products while working toward a remote engineering role.
+I enjoy designing scalable systems, building full-stack applications, and experimenting with AI agents and automation. Outside of coding, I like learning system design and turning ideas into real products.
